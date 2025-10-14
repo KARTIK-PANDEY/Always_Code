@@ -56,7 +56,31 @@ Each topic includes a real-life connection:
 
 I follow a simple and clean commit message format:
 
+## 🌱 Goals
 
+- Strengthen DSA fundamentals through daily consistency  
+- Relate every abstract concept to a real-world scenario  
+- Build reusable logic and shareable code snippets  
+- Help others learn DSA with practical analogies  
+
+---
+
+## 🤝 Contributions
+
+While this is my personal learning repo, feel free to:
+- Suggest new real-life scenarios 💡  
+- Report any issues or improvements  
+- Discuss algorithmic approaches  
+
+---
+
+## 🧑‍💻 Author
+
+**Kartik Pandey**  
+Developer | Learner | Problem Solver  
+💬 _“Code Every Day, Think Logically, Build Intuitively.”_
+
+---
 
 ## 🗂 Repository Structure
 Always-Code/
