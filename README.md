@@ -14,4 +14,20 @@ I believe that coding DSA with relatable examples not only strengthens problem-s
 ---
 
 ## 🗂 Repository Structure
-
+Always-Code/
+│
+├── README.md
+│
+├── Topics/ # Organized by DSA concepts
+│ ├── Arrays/
+│ ├── LinkedList/
+│ ├── Stack/
+│ ├── Queue/
+│ ├── Tree/
+│ ├── Graph/
+│ ├── Sorting/
+│ └── Searching/
+│
+├── Daily Challenges/ # Daily coding practice files
+│
+└── Assets/ # Images, diagrams, notes
