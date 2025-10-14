@@ -74,7 +74,7 @@ While this is my personal learning repo, feel free to:
 
 ## 🧑‍💻 Author
 
-**Kartik Pandey**  
+**KARTIK PANDEY**  
 Developer | Learner | Problem Solver  
 💬 _“Code Every Day, Think Logically, Build Intuitively.”_
 
