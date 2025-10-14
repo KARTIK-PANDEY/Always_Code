@@ -80,21 +80,3 @@ Developer | Learner | Problem Solver
 
 ---
 
-## 🗂 Repository Structure
-Always-Code/
-│
-├── README.md
-│
-├── Topics/ # Organized by DSA concepts
-│ ├── Arrays/
-│ ├── LinkedList/
-│ ├── Stack/
-│ ├── Queue/
-│ ├── Tree/
-│ ├── Graph/
-│ ├── Sorting/
-│ └── Searching/
-│
-├── Daily Challenges/ # Daily coding practice files
-│
-└── Assets/ # Images, diagrams, notes
