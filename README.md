@@ -52,9 +52,7 @@ Each topic includes a real-life connection:
 
 ---
 
-## 🧾 Commit Format
 
-I follow a simple and clean commit message format:
 
 ## 🌱 Goals
 
