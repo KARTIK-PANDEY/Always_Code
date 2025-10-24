@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int n;
+    cout<<"Enter Number to Print till:- ";
+    cin>>n;
+    int i=1;
+    do
+    {
+        cout<<i<<endl;
+        i=i+1;
+
+    } while (i<=n);
+    
+}
