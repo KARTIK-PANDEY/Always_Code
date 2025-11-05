@@ -26,7 +26,7 @@ int main()
         }
 
         if(swapped=0)
-        cout<<"Array is Already Sorted ";
+        cout<<" Array is Already Sorted ";
     }
        
     for(int i=0; i<n; i++)
@@ -35,4 +35,5 @@ int main()
     }
 
     cout<<endl<<" Thank you ";
+
 }
