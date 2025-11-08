@@ -39,7 +39,7 @@ There Are Several Other Examples As Well.
 
 1. Choose a new DSA topic or pattern  
 2. Learn the theory briefly  
-3. Implement it in code  
+3. Implement it in Code with Application Integration 
 4. Create a real-life use case  
 5. Commit and push it to GitHub 📤
 
