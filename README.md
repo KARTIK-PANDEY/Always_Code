@@ -22,7 +22,7 @@ Each topic includes a real-life connection:
 
 | DSA Concept | Real-Life Example |
 |--------------|------------------|
-| Array | Managing student roll numbers in order |
+| Array | Managing student roll numbers in order and Many More Others |
 | Stack | Undo/Redo in text editors |
 | Queue | Ticket booking or printer queue |
 | Linked List | Music playlist navigation |
