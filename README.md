@@ -9,7 +9,7 @@
 **Always Code** is a living repository that grows daily.  
 Every day, I pick a **new DSA concept**, understand it deeply, and implement it both in a **theoretical** and a **real-world** context.
 
-I believe that coding DSA with relatable examples not only strengthens problem-solving skills but also builds practical intuition.
+I believe that coding DSA with relatable examples not only strengthens My problem-solving skills but also builds practical intuition.
 
 ---
 
