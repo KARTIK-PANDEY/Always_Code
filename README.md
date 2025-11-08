@@ -31,6 +31,8 @@ Each topic includes a real-life connection:
 | Sorting | Sorting leaderboard scores |
 | Searching | Finding a name in a contact list |
 
+There Are Several Other Examples As Well.
+
 ---
 
 ## 🧠 My Daily Coding Routine
